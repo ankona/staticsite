@@ -1,4 +1,4 @@
 # staticsite
 
 
-New readme content
+Readme content per code review
